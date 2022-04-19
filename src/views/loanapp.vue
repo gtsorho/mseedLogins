@@ -34,6 +34,7 @@
                 }
             }
         },
+        
         methods: {
             apply(){
                 var token = localStorage.getItem('token');
